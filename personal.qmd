@@ -1,0 +1,71 @@
+---
+title: "Personal"
+---
+
+Some photos from travel.
+
+---
+
+![](images/giraffe.jpg){width=60%}
+
+Feeding giraffes. Nairobi, Kenya. January 2026.
+
+---
+
+![](images/bok1.jpg){width=60%}
+
+Visting Bank of Korea. Seoul. September 2025.
+
+---
+
+![](images/statue_liberty.jpg){width=60%}
+
+Statue of Liberty. New York City. October 2023.
+
+---
+
+![](images/gor_australia.jpg){width=60%}
+
+Great Ocean Road. Australia. October 2023.
+
+---
+
+![](images/towerbridge.jpg){width=60%}
+
+Tower Bridge. London. October 2018.
+
+---
+
+![](images/swiss_alps.jpg){width=60%}
+
+Train ride through the Swiss Alps. Between Luzern and Interlaken, Switzerland. May 2014.
+
+---
+
+![](images/bruges_tower.jpg){width=60%}
+
+Top of the clock tower. Bruges, Belgium. July 2011. 
+
+---
+
+![](images/ayasofya.JPG){width=60%}
+
+Aya Sofya. Istanbul, Turkey. June 2009.
+
+---
+
+![](images/lobster.jpg){width=60%}
+
+Eating (not enjoying) lobster ice cream. Maine. November 2008.
+
+---
+
+![](images/karlstejn.jpg){width=60%}
+
+Karlštejn Castle.  Outside Prague. June 2007.
+
+---
+
+![](images/ivorytower.jpg){width=60%}
+
+Graduation. Hoover Tower, Stanford. June 2007.

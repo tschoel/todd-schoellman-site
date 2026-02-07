@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Todd Schoellman"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: personal.qmd
+        text: Personal
+  page-footer:
+    left: "© 2026 Todd Schoellman"
+    right: "Last updated: February 2026"
+
+format:
+  html:
+    theme: litera
+    fontsize: 1.05em
+    css: styles.css
+
+
+

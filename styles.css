@@ -1,0 +1,32 @@
+/* Compact research list styling */
+.pub-list { margin-top: 0.5rem; }
+.pub {
+  margin: 0 0 0.65rem 0;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.pub:last-child { border-bottom: 0; }
+
+.pub .title a {
+  font-weight: 650;
+  text-decoration: none;
+}
+.pub .title a:hover { text-decoration: underline; }
+
+.pub .meta {
+  margin-top: 0.15rem;
+  font-size: 0.95em;
+  color: rgba(0,0,0,0.72);
+}
+
+.pub .links {
+  margin-top: 0.15rem;
+  font-size: 0.93em;
+  color: rgba(0,0,0,0.72);
+}
+.pub .links a { text-decoration: none; }
+.pub .links a:hover { text-decoration: underline; }
+.pub .links .sep { margin: 0 0.35rem; color: rgba(0,0,0,0.35); }
+
+/* Make headings slightly tighter on research page */
+h2 { margin-top: 1.2rem; }

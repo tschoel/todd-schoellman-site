@@ -1,0 +1,23 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {style="display:flex; gap:2.25rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;"}
+
+![](images/dynare4.jpg){fig-alt="Todd Schoellman" style="width:500px; border-radius:8px;"}
+
+
+::: {style="flex:1; min-width:280px;"}
+
+# Todd Schoellman
+
+**Principal Research Economist**  
+**Federal Reserve Bank of Minneapolis**
+
+I work on **macro-development**. My main focus is on **human capital** and **labor markets**. I try to quantify the differences in skills and knowledge between workers in different countries; the role of countries, schools, and labor markets in generating these differences; and the implications of these differences for worker incomes and aggregate growth.
+
+**Email:** [todd.schoellman@gmail.com](mailto:todd.schoellman@gmail.com)
+
+:::
+:::
