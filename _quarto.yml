@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Todd Schoellman"
+  site-url: https://toddschoellman.com
   navbar:
     left:
       - href: index.qmd
@@ -23,6 +24,4 @@ format:
     theme: litera
     fontsize: 1.05em
     css: styles.css
-
-
-
+    link-external-newwindow: true
