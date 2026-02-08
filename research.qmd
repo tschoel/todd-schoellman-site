@@ -2,10 +2,6 @@
 title: "Research"
 ---
 
-I work on macro-development with a primary focus on human capital and labor markets. 
-
----
-
 ## Research in progress
 
 **The Global Job Ladder**, with [Martellini](https://sites.google.com/sas.upenn.edu/paolomartellini) and [Sockin](https://sites.google.com/view/jasonsockin/home).

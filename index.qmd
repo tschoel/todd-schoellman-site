@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {style="display:flex; gap:2.25rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;"}
 
-![](images/dynare4.jpg){fig-alt="Todd Schoellman" style="width:500px; border-radius:8px;"}
+![](images/frontpagefeb26.jpg){fig-alt="Todd Schoellman" style="width:500px; border-radius:8px;"}
 
 
 ::: {style="flex:1; min-width:280px;"}
