@@ -6,7 +6,7 @@ title: "Research"
 
 **The Global Job Ladder**, with [Martellini](https://sites.google.com/sas.upenn.edu/paolomartellini) and [Sockin](https://sites.google.com/view/jasonsockin/home).
 
-**Household Insurance Around the World**, with [Bacher](https://sites.google.com/view/annikabacher/), [Donovan](http://kevindonovan.weebly.com/), [Grübener](https://philippgruebener.com/), and [Nord](https://lukasnord.eu/).
+**Household Labor Supply Insurance Around the World**, with [Bacher](https://sites.google.com/view/annikabacher/), [Donovan](http://kevindonovan.weebly.com/), [Grübener](https://philippgruebener.com/), and [Nord](https://lukasnord.eu/).
 
 ---
 
@@ -19,7 +19,7 @@ January 2026.
 Revise and resubmit, *Journal of Monetary Economics*. February 2026.  
 
 **[Economic Development According to Chandler](papers/emprs2.pdf)**, with [Engbom](https://www.niklasengbom.com/), [Malmberg](https://sites.google.com/site/hannesmalmbergweb/), [Porzio](https://sites.google.com/view/tommaso-porzio/home), and [Rossi](http://www.federico-rossi.com/).  
-November 2025.  
+Revise and resubmit, *Econometrica*. November 2025.  
 
 **[Structural Transformation by Cohort](papers/ST_cohort.pdf)**, with [Hobijn](http://www.barthobijn.net/) and [Vindas](http://www.albertovindas.com/).  
 November 2018. 
